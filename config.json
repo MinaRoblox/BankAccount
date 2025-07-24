@@ -1,0 +1,14 @@
+{
+    "Custom Bank Name": "Emanuel's Bank",
+    "Custom Bank Name Color": "GREEN",
+    "_comment": "Make sure the files inputted exist before running!",
+    "_commenttwo": "If you leave Custom Bank Name, the default name will be 'MinaRoblox's Bank'",
+    "_commentthree": "Use Custom Bank Name Color to represent Fore.{COLOR} {COLOR} must be in caps and a valid colorama name.",
+    "IP": "localhost",
+    "Port": 6969,
+    "Encryption Key": 246,
+    "Credentials File": "db/cred.json",
+    "Loans File": "db/loan.json",
+    "Balance File": "db/money.json",
+    "ID File": "db/maxID.txt"
+}
