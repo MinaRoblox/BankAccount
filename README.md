@@ -34,13 +34,20 @@ git clone https://github.com/MinaRoblox/BankAccount.git && BankAccount
 
 4.- Change any neccesary configurations you want, like the IP, port or the Encryptation Key.
 
-5.- Run ServerRun.py with:
+5.- With/without a virtual enviroment activated, install the required libraries.
+
+``
+pip install -r requirements.txt
+``
+
+
+6.- Run ServerRun.py with:
 
 ``
 python3 ServerRun.py config.json
 ``
 
-6.- In another terminal in the same network run:
+7.- In another terminal in the same network run:
 
 ``
 python3 ClientRun.py "IP" port
